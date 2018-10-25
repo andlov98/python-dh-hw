@@ -6,10 +6,10 @@
 2. Теория игр
 3. Политическая философия, в частности история либертарианской мысли
 
-![] (https://vk.com/sticker/1-2168-128-1)
+![](http://vkclub.su/_data/stickers/ukrain/sticker_vk_ukrain_005.png)
 
 **№**|**Описание**|**Ссылка на работу**
 :---:|---|---
-**1**|Пингвинчики!|*[HW1]*(https://github.com/andlov98/python-dh-hw/blob/master/HW1.ipynb "нажми на меня")
-**2**|Скоро будет|*[HW2]*(https://github.com/andlov98/python-dh-hw/blob/master/HW2.ipynb "не нажимай на меня")
-**3**|Не скоро будет|*[HW3]*(https://github.com/andlov98/python-dh-hw/blob/master/HW3.ipynb "не нажимай на меня")
+**1**|Пингвинчики!|*[HW1](https://goo.gl/ucfZvh "нажми на меня")*
+**2**|Скоро будет|*[HW2]("не нажимай на меня")*
+**3**|Не скоро будет|*[HW3]("не нажимай на меня")*
